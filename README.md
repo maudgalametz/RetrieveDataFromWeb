@@ -36,9 +36,9 @@ pip install selenium
 
 
 Documentation can be found at
-\url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup}
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 and
-\url{https://selenium-python.readthedocs.io/installation.html}
+https://selenium-python.readthedocs.io/installation.html
 
 
 
