@@ -43,7 +43,7 @@ https://selenium-python.readthedocs.io/installation.html
 
 
 
-## How to use the script PredictDustpedia.py:
+## How to use the script Geocaching_ListOfVisitors.py:
 
 **Inputs:** 
 
